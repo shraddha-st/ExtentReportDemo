@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-06-26T07:31:50Z" name="Suite" finished-at="2022-06-26T07:33:06Z" duration-ms="76273">
+    <groups>
+    </groups>
+    <test started-at="2022-06-26T07:31:50Z" name="Test" finished-at="2022-06-26T07:33:06Z" duration-ms="76273">
+      <class name="com.extentreports.tests.AttachScreenShot7">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.extentreports.tests.AttachScreenShot7@644baf4a]" started-at="2022-06-26T07:31:48Z" name="setUp" finished-at="2022-06-26T07:31:50Z" duration-ms="1084" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="attachScreenShotTest()[pri:0, instance:com.extentreports.tests.AttachScreenShot7@644baf4a]" started-at="2022-06-26T07:31:53Z" name="attachScreenShotTest" finished-at="2022-06-26T07:33:04Z" duration-ms="70671" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- attachScreenShotTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.extentreports.tests.AttachScreenShot7@644baf4a]" started-at="2022-06-26T07:33:08Z" name="tearDown" finished-at="2022-06-26T07:33:14Z" duration-ms="6143" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.extentreports.tests.AttachScreenShot7 -->
+      <class name="com.extentreports.tests.ExtentReportJson2">
+        <test-method signature="extentTest()[pri:0, instance:com.extentreports.tests.ExtentReportJson2@7526515b]" started-at="2022-06-26T07:31:50Z" name="extentTest" finished-at="2022-06-26T07:31:53Z" duration-ms="3070" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- extentTest -->
+      </class> <!-- com.extentreports.tests.ExtentReportJson2 -->
+      <class name="com.extentreports.tests.ExtentReportCustome5">
+        <test-method signature="extentTest()[pri:0, instance:com.extentreports.tests.ExtentReportCustome5@6d4d66d2]" started-at="2022-06-26T07:33:04Z" name="extentTest" finished-at="2022-06-26T07:33:05Z" duration-ms="272" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- extentTest -->
+      </class> <!-- com.extentreports.tests.ExtentReportCustome5 -->
+      <class name="com.extentreports.tests.ExtentReportOne">
+        <test-method signature="extentTest()[pri:0, instance:com.extentreports.tests.ExtentReportOne@54c5a2ff]" started-at="2022-06-26T07:33:04Z" name="extentTest" finished-at="2022-06-26T07:33:04Z" duration-ms="476" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- extentTest -->
+      </class> <!-- com.extentreports.tests.ExtentReportOne -->
+      <class name="com.extentreports.tests.AttachLogo6">
+        <test-method signature="attachLogoTest()[pri:0, instance:com.extentreports.tests.AttachLogo6@1ed4ae0f]" started-at="2022-06-26T07:31:53Z" name="attachLogoTest" finished-at="2022-06-26T07:31:53Z" duration-ms="423" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- attachLogoTest -->
+      </class> <!-- com.extentreports.tests.AttachLogo6 -->
+      <class name="com.extentreports.tests.ExtentReportLoggingJsonXML4">
+        <test-method signature="extentTest()[pri:0, instance:com.extentreports.tests.ExtentReportLoggingJsonXML4@11392934]" started-at="2022-06-26T07:33:05Z" name="extentTest" finished-at="2022-06-26T07:33:06Z" duration-ms="410" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- extentTest -->
+      </class> <!-- com.extentreports.tests.ExtentReportLoggingJsonXML4 -->
+      <class name="com.extentreports.tests.ExtentReportFailedTest3">
+        <test-method signature="extentTest()[pri:0, instance:com.extentreports.tests.ExtentReportFailedTest3@2a265ea9]" started-at="2022-06-26T07:33:05Z" name="extentTest" finished-at="2022-06-26T07:33:05Z" duration-ms="847" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- extentTest -->
+      </class> <!-- com.extentreports.tests.ExtentReportFailedTest3 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

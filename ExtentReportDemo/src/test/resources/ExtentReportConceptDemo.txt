@@ -1,0 +1,33 @@
+
+//1. Create simple report with spark reporter
+//2. add configurationn wth XML and JSON
+//3. Failed test only
+//added filter to new spark and added to attach reporter
+//4. how to add json or xml code in log
+//		test.info(MarkupHelper.createCodeBlock(xmlcode, CodeLanguage.XML));
+
+//5. custom report
+/**
+ * 1. change the viewing order
+ * 2. remove some menu
+ * 3. highlight a log line
+ * 4. List of String => how can i log in report
+ * 5. Map<String, String> ==> how can i log in report
+ * 
+ */
+//6. Attach logo to report
+// configure in xml config
+
+/**
+ *
+ * 1.Attach company logo to extent report
+ * 2. part II how to config xml files to set up extent report (XML config file)
+ * 
+ */
+//7. attach screenshot in 3 ways 
+/**
+ * 1. Take a screenshot as png, jpg file >> Attach to report
+ * 2. Take a screenshot as png, jpg file >> Convert to form of Base64 >> Attach to report
+ * 3. Take a screenshot as base64 >> Attach to report (mose recommended)
+ * 
+ */
